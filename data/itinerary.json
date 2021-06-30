@@ -1,0 +1,42 @@
+{
+    "itinerary": {
+        "flights": [
+            {
+                "departureTime": "06:50",
+                "arrivalTime": "09:20",
+                "date": "Jul 2,
+                "origin": "MAA",
+                "destination": "CJB"
+            },
+            {
+                "departureTime": "18:45",
+                "arrivalTime": "21:15",
+                "date": "Jul 9",
+                "destination": "PNY",
+                "confirmation": "314159265",
+                "origin": "TJY"
+            }
+        ],
+        "accommodation": [
+            {
+                "startDate": "Jul 2",
+                "endDate": "Jul 9",
+                "checkInTime": "15:00",
+                "checkOutTime": "12:00",
+                "name": "ITC Grand Chola",
+                "address": "No 63, Anna Salai, Little Mount, Guindy, Chennai, Tamil Nadu 600032",
+                "phone": "+47 23 21 20 00",
+                "confirmation": "ty1234789yt410"
+            }
+        ],
+        "restaurants": [
+            {
+                "time": "19:00",
+                "date": "Jul 4",
+                "name": "Hilton",
+                "address": "124, 1, Jawaharlal Nehru Rd, Poomagal Nagar, Guindy, Chennai, Tamil Nadu",
+                "confirmation": "99900022"
+            }
+        ]
+    }
+}
